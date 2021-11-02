@@ -5,3 +5,16 @@
 .search-bar{
     margin-left: 99px;
 }
+.slider-img{
+    height: 400px;
+    opacity: 0.9;
+}
+.carousel-caption>h5{
+    color: yellow;
+}
+hr{
+    border-bottom: 4px solid orangered;
+}
+.contact{
+    font-weight: 700;
+}
