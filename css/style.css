@@ -18,3 +18,26 @@ hr{
 .contact{
     font-weight: 700;
 }
+.fa-wifi{
+    font-size: 150px;
+}
+.speed{
+    font-weight: 700;
+}
+.card{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.card-body>h5{
+    border-radius: 50px;
+}
+.limit>li{
+    border-bottom: 2px dotted #B7B8B8;
+    list-style-type: none;
+    font-weight: 600;
+    color: #B7B8B8;
+    padding: 10px;
+}
+.fa-shopping-cart{
+    margin-right: 10px;
+}
